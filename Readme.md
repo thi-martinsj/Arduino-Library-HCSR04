@@ -5,7 +5,7 @@ This library allows you to measure distance in millimeters, centimeters or inche
 Ultrasonic ranging module HC-SR04 provides 2cm - 400cm non-contact measurement function, the ranging accuracy can rach to 3mm.
 The modules includes ultrasonic transmitters, receiver and control circuit.
 <br/><br/>
-<img src="https://cdn.awsli.com.br/600x700/468/468162/produto/19414094/modulo-sensor-de-distancia-ultrassonico-hc-sr04-e5f1a20d.jpg" width="300">
+<img src="hcsr04.png" width="300">
 
 ## How to install?
 The first thing you need to do is download this library as a .zip directory.
